@@ -10,4 +10,5 @@ type SearchEngines =
 	| 'ecosia'
 	| 'lilo'
 	| 'baidu'
+	| 'naver'
 	| 'custom'

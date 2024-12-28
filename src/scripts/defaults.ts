@@ -68,6 +68,7 @@ export const SEARCHBAR_ENGINES = <const>[
 	'ecosia',
 	'lilo',
 	'baidu',
+	'naver',
 	'custom',
 ]
 

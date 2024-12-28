@@ -148,6 +148,7 @@ function createSearchURL(val: string, engine: string): string {
 		ecosia: 'https://www.ecosia.org/search?q=%s',
 		lilo: 'https://search.lilo.org/?q=%s',
 		baidu: 'https://www.baidu.com/s?wd=%s',
+		naver: 'https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%s',
 		custom: domcontainer?.dataset.request || '',
 	}
 
